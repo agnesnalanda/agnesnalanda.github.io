@@ -4,8 +4,11 @@
 .menu > a{
   text-decoration:none;
   color:black;
-  font-size: 26px;
+  margin-right: 20px;
 }
 .menu > a:visited {
   color:green;
+}
+.menu > a:hover {
+  color: blue;
 }
