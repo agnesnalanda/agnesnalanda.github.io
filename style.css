@@ -1,0 +1,11 @@
+.menu {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.menu > a{
+  text-decoration:none;
+  color: black;
+  font-size: 26px;
+}
+.menu > a:visited {
+  color: rgb(92, 148, 7);
+}
