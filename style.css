@@ -3,9 +3,9 @@
 }
 .menu > a{
   text-decoration:none;
-  color: black;
+  color:black;
   font-size: 26px;
 }
 .menu > a:visited {
-  color: rgb(92, 148, 7);
+  color:green;
 }
