@@ -23,3 +23,7 @@ h1 {
   padding-bottom: 5px;
   border-bottom: 2px dotted black;
 }
+.conteudo {
+  font-family: 'Slabo 27px', serif;
+  line-height: 32px;
+}
