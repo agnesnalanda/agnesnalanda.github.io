@@ -1,3 +1,7 @@
+.largura {
+width: 700px;
+margin: auto;
+}
 .menu {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
