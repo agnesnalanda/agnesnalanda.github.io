@@ -18,12 +18,16 @@ margin: auto;
   color:green;
 }
 .menu > a:hover {
-  color: blue;
+  color:purple;
 }
 h1 {
   font-family: 'Slabo 27px', serif;
   padding-bottom: 5px;
   border-bottom: 2px dotted black;
+}
+h2 {
+  font-family: 'Slabo 27px', serif;
+  color: purple;
 }
 .conteudo {
   font-family: 'Slabo 27px', serif;
@@ -36,4 +40,8 @@ h1 {
 }
 .selecionado {
   border-bottom: 2px dotted black;
+}
+.centralizada {
+  font-size: 18px;
+  text-align: center;
 }
